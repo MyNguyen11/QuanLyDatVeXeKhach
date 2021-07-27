@@ -1,0 +1,49 @@
+C:\Users\HP\Desktop\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DTO\bin\Debug\DTO.dll
+C:\Users\HP\Desktop\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DTO\bin\Debug\DTO.pdb
+C:\Users\HP\Desktop\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DTO\obj\Debug\DTO.dll
+C:\Users\HP\Desktop\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DTO\obj\Debug\DTO.pdb
+E:\_STUDY\KiemThuPhanMem\_BaiTapLon\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DTO\bin\Debug\DTO.dll
+E:\_STUDY\KiemThuPhanMem\_BaiTapLon\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DTO\bin\Debug\DTO.pdb
+E:\_STUDY\KiemThuPhanMem\_BaiTapLon\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+E:\_STUDY\KiemThuPhanMem\_BaiTapLon\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\_STUDY\KiemThuPhanMem\_BaiTapLon\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DTO\obj\Debug\DTO.dll
+E:\_STUDY\KiemThuPhanMem\_BaiTapLon\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DTO\obj\Debug\DTO.pdb
+E:\_STUDY\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DTO\bin\Debug\DTO.dll
+E:\_STUDY\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DTO\bin\Debug\DTO.pdb
+E:\_STUDY\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+E:\_STUDY\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\_STUDY\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DTO\obj\Debug\DTO.dll
+E:\_STUDY\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DTO\obj\Debug\DTO.pdb
+C:\Users\nqt01\Desktop\QuanLyHoTroDatVeXe-master\QuanLyHoTroDatVeXe-master\QuanLyHoTroDatVeXe\DTO\bin\Debug\DTO.dll
+C:\Users\nqt01\Desktop\QuanLyHoTroDatVeXe-master\QuanLyHoTroDatVeXe-master\QuanLyHoTroDatVeXe\DTO\bin\Debug\DTO.pdb
+C:\Users\nqt01\Desktop\QuanLyHoTroDatVeXe-master\QuanLyHoTroDatVeXe-master\QuanLyHoTroDatVeXe\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\nqt01\Desktop\QuanLyHoTroDatVeXe-master\QuanLyHoTroDatVeXe-master\QuanLyHoTroDatVeXe\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\nqt01\Desktop\QuanLyHoTroDatVeXe-master\QuanLyHoTroDatVeXe-master\QuanLyHoTroDatVeXe\DTO\obj\Debug\DTO.dll
+C:\Users\nqt01\Desktop\QuanLyHoTroDatVeXe-master\QuanLyHoTroDatVeXe-master\QuanLyHoTroDatVeXe\DTO\obj\Debug\DTO.pdb
+C:\Users\Admin\Desktop\VeXe\QuanLyHoTroDatVeXe\DTO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\VeXe\QuanLyHoTroDatVeXe\DTO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\VeXe\QuanLyHoTroDatVeXe\DTO\bin\Debug\mscorlib.dll
+C:\Users\Admin\Desktop\VeXe\QuanLyHoTroDatVeXe\DTO\bin\Debug\normidna.nlp
+C:\Users\Admin\Desktop\VeXe\QuanLyHoTroDatVeXe\DTO\bin\Debug\normnfc.nlp
+C:\Users\Admin\Desktop\VeXe\QuanLyHoTroDatVeXe\DTO\bin\Debug\normnfd.nlp
+C:\Users\Admin\Desktop\VeXe\QuanLyHoTroDatVeXe\DTO\bin\Debug\normnfkc.nlp
+C:\Users\Admin\Desktop\VeXe\QuanLyHoTroDatVeXe\DTO\bin\Debug\normnfkd.nlp
+C:\Users\Admin\Desktop\VeXe\QuanLyHoTroDatVeXe\DTO\obj\Debug\DTO.dll
+C:\Users\Admin\Desktop\VeXe\QuanLyHoTroDatVeXe\DTO\obj\Debug\DTO.pdb
+E:\Phần mềm quản lý vé xe\QuanLyHoTroDatVeXe\DTO\bin\Debug\DTO.dll
+E:\Phần mềm quản lý vé xe\QuanLyHoTroDatVeXe\DTO\bin\Debug\DTO.pdb
+E:\Phần mềm quản lý vé xe\QuanLyHoTroDatVeXe\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+E:\Phần mềm quản lý vé xe\QuanLyHoTroDatVeXe\DTO\obj\Debug\DTO.dll
+E:\Phần mềm quản lý vé xe\QuanLyHoTroDatVeXe\DTO\obj\Debug\DTO.pdb
+C:\Users\User\Desktop\Nam3_HK2\PTTKHTTT\DA_PTTKHTTT\QuanLyHoTroDatVeXe\DTO\bin\Debug\DTO.dll
+C:\Users\User\Desktop\Nam3_HK2\PTTKHTTT\DA_PTTKHTTT\QuanLyHoTroDatVeXe\DTO\bin\Debug\DTO.pdb
+C:\Users\User\Desktop\Nam3_HK2\PTTKHTTT\DA_PTTKHTTT\QuanLyHoTroDatVeXe\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Nam3_HK2\PTTKHTTT\DA_PTTKHTTT\QuanLyHoTroDatVeXe\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nam3_HK2\PTTKHTTT\DA_PTTKHTTT\QuanLyHoTroDatVeXe\DTO\obj\Debug\DTO.dll
+C:\Users\User\Desktop\Nam3_HK2\PTTKHTTT\DA_PTTKHTTT\QuanLyHoTroDatVeXe\DTO\obj\Debug\DTO.pdb
+D:\TaiLieuHocTap\Nam3_HK2\PTTKHTTT\31_QuanLyDatVeXeKhach\QuanLyHoTroDatVeXe\DTO\bin\Debug\DTO.dll
+D:\TaiLieuHocTap\Nam3_HK2\PTTKHTTT\31_QuanLyDatVeXeKhach\QuanLyHoTroDatVeXe\DTO\bin\Debug\DTO.pdb
+D:\TaiLieuHocTap\Nam3_HK2\PTTKHTTT\31_QuanLyDatVeXeKhach\QuanLyHoTroDatVeXe\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\TaiLieuHocTap\Nam3_HK2\PTTKHTTT\31_QuanLyDatVeXeKhach\QuanLyHoTroDatVeXe\DTO\obj\Debug\DTO.dll
+D:\TaiLieuHocTap\Nam3_HK2\PTTKHTTT\31_QuanLyDatVeXeKhach\QuanLyHoTroDatVeXe\DTO\obj\Debug\DTO.pdb

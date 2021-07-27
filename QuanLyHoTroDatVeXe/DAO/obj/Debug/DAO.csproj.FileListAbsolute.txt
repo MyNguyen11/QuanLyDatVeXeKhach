@@ -1,0 +1,83 @@
+C:\Users\HP\Desktop\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DAO\bin\Debug\DAO.dll
+C:\Users\HP\Desktop\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DAO\bin\Debug\DAO.pdb
+C:\Users\HP\Desktop\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DAO\bin\Debug\DTO.dll
+C:\Users\HP\Desktop\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DAO\bin\Debug\DTO.pdb
+C:\Users\HP\Desktop\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\HP\Desktop\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.dll
+C:\Users\HP\Desktop\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.pdb
+E:\_STUDY\KiemThuPhanMem\_BaiTapLon\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DAO\bin\Debug\DAO.dll
+E:\_STUDY\KiemThuPhanMem\_BaiTapLon\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DAO\bin\Debug\DAO.pdb
+E:\_STUDY\KiemThuPhanMem\_BaiTapLon\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DAO\bin\Debug\DTO.dll
+E:\_STUDY\KiemThuPhanMem\_BaiTapLon\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DAO\bin\Debug\DTO.pdb
+E:\_STUDY\KiemThuPhanMem\_BaiTapLon\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+E:\_STUDY\KiemThuPhanMem\_BaiTapLon\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\_STUDY\KiemThuPhanMem\_BaiTapLon\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\_STUDY\KiemThuPhanMem\_BaiTapLon\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.dll
+E:\_STUDY\KiemThuPhanMem\_BaiTapLon\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.pdb
+E:\_STUDY\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DAO\bin\Debug\DAO.dll
+E:\_STUDY\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DAO\bin\Debug\DAO.pdb
+E:\_STUDY\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DAO\bin\Debug\DTO.dll
+E:\_STUDY\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DAO\bin\Debug\DTO.pdb
+E:\_STUDY\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+E:\_STUDY\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\_STUDY\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.csproj.CopyComplete
+E:\_STUDY\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.dll
+E:\_STUDY\QuanLyHoTroDatVeXe\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.pdb
+C:\Users\nqt01\Desktop\QuanLyHoTroDatVeXe-master\QuanLyHoTroDatVeXe-master\QuanLyHoTroDatVeXe\DAO\bin\Debug\DAO.dll
+C:\Users\nqt01\Desktop\QuanLyHoTroDatVeXe-master\QuanLyHoTroDatVeXe-master\QuanLyHoTroDatVeXe\DAO\bin\Debug\DAO.pdb
+C:\Users\nqt01\Desktop\QuanLyHoTroDatVeXe-master\QuanLyHoTroDatVeXe-master\QuanLyHoTroDatVeXe\DAO\bin\Debug\DTO.dll
+C:\Users\nqt01\Desktop\QuanLyHoTroDatVeXe-master\QuanLyHoTroDatVeXe-master\QuanLyHoTroDatVeXe\DAO\bin\Debug\DTO.pdb
+C:\Users\nqt01\Desktop\QuanLyHoTroDatVeXe-master\QuanLyHoTroDatVeXe-master\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.csprojAssemblyReference.cache
+C:\Users\nqt01\Desktop\QuanLyHoTroDatVeXe-master\QuanLyHoTroDatVeXe-master\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\nqt01\Desktop\QuanLyHoTroDatVeXe-master\QuanLyHoTroDatVeXe-master\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\nqt01\Desktop\QuanLyHoTroDatVeXe-master\QuanLyHoTroDatVeXe-master\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.dll
+C:\Users\nqt01\Desktop\QuanLyHoTroDatVeXe-master\QuanLyHoTroDatVeXe-master\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.pdb
+C:\Users\Admin\Desktop\VeXe\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\VeXe\QuanLyHoTroDatVeXe\DAO\bin\Debug\DAO.dll
+C:\Users\Admin\Desktop\VeXe\QuanLyHoTroDatVeXe\DAO\bin\Debug\DAO.pdb
+C:\Users\Admin\Desktop\VeXe\QuanLyHoTroDatVeXe\DAO\bin\Debug\DTO.dll
+C:\Users\Admin\Desktop\VeXe\QuanLyHoTroDatVeXe\DAO\bin\Debug\mscorlib.dll
+C:\Users\Admin\Desktop\VeXe\QuanLyHoTroDatVeXe\DAO\bin\Debug\DTO.pdb
+C:\Users\Admin\Desktop\VeXe\QuanLyHoTroDatVeXe\DAO\bin\Debug\normidna.nlp
+C:\Users\Admin\Desktop\VeXe\QuanLyHoTroDatVeXe\DAO\bin\Debug\normnfc.nlp
+C:\Users\Admin\Desktop\VeXe\QuanLyHoTroDatVeXe\DAO\bin\Debug\normnfd.nlp
+C:\Users\Admin\Desktop\VeXe\QuanLyHoTroDatVeXe\DAO\bin\Debug\normnfkc.nlp
+C:\Users\Admin\Desktop\VeXe\QuanLyHoTroDatVeXe\DAO\bin\Debug\normnfkd.nlp
+C:\Users\Admin\Desktop\VeXe\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.dll
+C:\Users\Admin\Desktop\VeXe\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.pdb
+E:\Phần mềm quản lý vé xe\QuanLyHoTroDatVeXe\DAO\bin\Debug\DAO.dll
+E:\Phần mềm quản lý vé xe\QuanLyHoTroDatVeXe\DAO\bin\Debug\DAO.pdb
+E:\Phần mềm quản lý vé xe\QuanLyHoTroDatVeXe\DAO\bin\Debug\DTO.dll
+E:\Phần mềm quản lý vé xe\QuanLyHoTroDatVeXe\DAO\bin\Debug\DTO.pdb
+E:\Phần mềm quản lý vé xe\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+E:\Phần mềm quản lý vé xe\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.dll
+E:\Phần mềm quản lý vé xe\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.pdb
+C:\Users\HP\Downloads\Phần mềm quản lý vé xe\QuanLyHoTroDatVeXe\DAO\bin\Debug\DAO.dll
+C:\Users\HP\Downloads\Phần mềm quản lý vé xe\QuanLyHoTroDatVeXe\DAO\bin\Debug\DAO.pdb
+C:\Users\HP\Downloads\Phần mềm quản lý vé xe\QuanLyHoTroDatVeXe\DAO\bin\Debug\DTO.dll
+C:\Users\HP\Downloads\Phần mềm quản lý vé xe\QuanLyHoTroDatVeXe\DAO\bin\Debug\DTO.pdb
+C:\Users\HP\Downloads\Phần mềm quản lý vé xe\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\HP\Downloads\Phần mềm quản lý vé xe\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.dll
+C:\Users\HP\Downloads\Phần mềm quản lý vé xe\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.pdb
+C:\Users\User\Desktop\Nam3_HK2\PTTKHTTT\DA_PTTKHTTT\QuanLyHoTroDatVeXe\DAO\bin\Debug\DAO.dll
+C:\Users\User\Desktop\Nam3_HK2\PTTKHTTT\DA_PTTKHTTT\QuanLyHoTroDatVeXe\DAO\bin\Debug\DAO.pdb
+C:\Users\User\Desktop\Nam3_HK2\PTTKHTTT\DA_PTTKHTTT\QuanLyHoTroDatVeXe\DAO\bin\Debug\DTO.dll
+C:\Users\User\Desktop\Nam3_HK2\PTTKHTTT\DA_PTTKHTTT\QuanLyHoTroDatVeXe\DAO\bin\Debug\DTO.pdb
+C:\Users\User\Desktop\Nam3_HK2\PTTKHTTT\DA_PTTKHTTT\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.dll
+C:\Users\User\Desktop\Nam3_HK2\PTTKHTTT\DA_PTTKHTTT\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.pdb
+C:\Users\User\Desktop\Nam3_HK2\PTTKHTTT\DA_PTTKHTTT\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\DA_PTTKHTTT\QuanLyHoTroDatVeXe\DAO\bin\Debug\DAO.dll
+C:\Users\HP\Desktop\DA_PTTKHTTT\QuanLyHoTroDatVeXe\DAO\bin\Debug\DAO.pdb
+C:\Users\HP\Desktop\DA_PTTKHTTT\QuanLyHoTroDatVeXe\DAO\bin\Debug\DTO.dll
+C:\Users\HP\Desktop\DA_PTTKHTTT\QuanLyHoTroDatVeXe\DAO\bin\Debug\DTO.pdb
+C:\Users\HP\Desktop\DA_PTTKHTTT\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\DA_PTTKHTTT\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.dll
+C:\Users\HP\Desktop\DA_PTTKHTTT\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.pdb
+D:\TaiLieuHocTap\Nam3_HK2\PTTKHTTT\31_QuanLyDatVeXeKhach\QuanLyHoTroDatVeXe\DAO\bin\Debug\DAO.dll
+D:\TaiLieuHocTap\Nam3_HK2\PTTKHTTT\31_QuanLyDatVeXeKhach\QuanLyHoTroDatVeXe\DAO\bin\Debug\DAO.pdb
+D:\TaiLieuHocTap\Nam3_HK2\PTTKHTTT\31_QuanLyDatVeXeKhach\QuanLyHoTroDatVeXe\DAO\bin\Debug\DTO.dll
+D:\TaiLieuHocTap\Nam3_HK2\PTTKHTTT\31_QuanLyDatVeXeKhach\QuanLyHoTroDatVeXe\DAO\bin\Debug\DTO.pdb
+D:\TaiLieuHocTap\Nam3_HK2\PTTKHTTT\31_QuanLyDatVeXeKhach\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\TaiLieuHocTap\Nam3_HK2\PTTKHTTT\31_QuanLyDatVeXeKhach\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.dll
+D:\TaiLieuHocTap\Nam3_HK2\PTTKHTTT\31_QuanLyDatVeXeKhach\QuanLyHoTroDatVeXe\DAO\obj\Debug\DAO.pdb
